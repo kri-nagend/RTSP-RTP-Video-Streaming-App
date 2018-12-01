@@ -1,0 +1,9 @@
+C:\Users\Kri\Desktop\School\SE 3314 Computer Network Applications\Assignment1\assignment1_knagned\bin\Debug\assignment1_knagned.exe.config
+C:\Users\Kri\Desktop\School\SE 3314 Computer Network Applications\Assignment1\assignment1_knagned\bin\Debug\assignment1_knagned.exe
+C:\Users\Kri\Desktop\School\SE 3314 Computer Network Applications\Assignment1\assignment1_knagned\bin\Debug\assignment1_knagned.pdb
+C:\Users\Kri\Desktop\School\SE 3314 Computer Network Applications\Assignment1\assignment1_knagned\obj\Debug\assignment1_knagned.csprojResolveAssemblyReference.cache
+C:\Users\Kri\Desktop\School\SE 3314 Computer Network Applications\Assignment1\assignment1_knagned\obj\Debug\assignment1_knagned.Form1.resources
+C:\Users\Kri\Desktop\School\SE 3314 Computer Network Applications\Assignment1\assignment1_knagned\obj\Debug\assignment1_knagned.Properties.Resources.resources
+C:\Users\Kri\Desktop\School\SE 3314 Computer Network Applications\Assignment1\assignment1_knagned\obj\Debug\assignment1_knagned.csproj.GenerateResource.Cache
+C:\Users\Kri\Desktop\School\SE 3314 Computer Network Applications\Assignment1\assignment1_knagned\obj\Debug\assignment1_knagned.exe
+C:\Users\Kri\Desktop\School\SE 3314 Computer Network Applications\Assignment1\assignment1_knagned\obj\Debug\assignment1_knagned.pdb
